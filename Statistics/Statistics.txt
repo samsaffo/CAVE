@@ -1,0 +1,3 @@
+Average ship wait time: 0 Minutes, 52 Seconds
+Average container wait time: 1 Minutes, 5 Seconds
+Average container throughput: 0.50 per minute
