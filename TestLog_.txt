@@ -1,0 +1,124 @@
+Player: , Scenario: 0
+Total Time: 3 m 50 s 875 ms
+#0 Time: 0 m 27 s 198 ms
+#0 Distance: 0,4174942
+#1 Time: 0 m 27 s 299 ms
+#1 Distance: 0,326421
+#2 Time: 0 m 28 s 849 ms
+#2 Distance: 0,1605873
+#3 Time: 0 m 17 s 866 ms
+#3 Distance: 0,2714607
+#4 Time: 0 m 34 s 892 ms
+#4 Distance: 0,08475675
+#5 Time: 0 m 17 s 817 ms
+#5 Distance: 0,3623692
+#6 Time: 0 m 22 s 265 ms
+#6 Distance: 0,2168383
+#7 Time: 0 m 15 s 967 ms
+#7 Distance: 0,5361925
+#8 Time: 0 m 24 s 950 ms
+#8 Distance: 0,4509767
+#9 Time: 0 m 13 s 765 ms
+#9 Distance: 0,2290017
+Average Time: 0 m 23 s 87 ms
+Average Target Distances: 0,3056099
+
+Player: , Scenario: 0
+Total Time: 3 m 46 s 691 ms
+#0 Time: 0 m 29 s 637 ms
+#0 Distance: 0,4175163
+#1 Time: 0 m 24 s 667 ms
+#1 Distance: 0,18675
+#2 Time: 0 m 28 s 533 ms
+#2 Distance: 0,2689524
+#3 Time: 0 m 16 s 853 ms
+#3 Distance: 0,07343174
+#4 Time: 0 m 26 s 987 ms
+#4 Distance: 0,180173
+#5 Time: 0 m 17 s 293 ms
+#5 Distance: 0,8453226
+#6 Time: 0 m 24 s 605 ms
+#6 Distance: 0,07657789
+#7 Time: 0 m 17 s 215 ms
+#7 Distance: 0,1831069
+#8 Time: 0 m 26 s 553 ms
+#8 Distance: 0,8579513
+#9 Time: 0 m 14 s 345 ms
+#9 Distance: 0,546331
+Container-Container Collisions: 99Container-Platform Collisions: 56Spreader Collisions: 1Average Time: 0 m 22 s 669 ms
+Average Target Distances: 0,3636113
+
+Player: , Scenario: 0
+Total Time: 3 m 47 s 580 ms
+#0 Time: 0 m 26 s 747 ms
+#0 Distance: 0,4269316
+#1 Time: 0 m 23 s 425 ms
+#1 Distance: 0,08603942
+#2 Time: 0 m 28 s 985 ms
+#2 Distance: 0,5918298
+#3 Time: 0 m 18 s 184 ms
+#3 Distance: 0,271507
+#4 Time: 0 m 31 s 537 ms
+#4 Distance: 0,08461513
+#5 Time: 0 m 17 s 649 ms
+#5 Distance: 0,1209473
+#6 Time: 0 m 20 s 249 ms
+#6 Distance: 0,1269277
+#7 Time: 0 m 19 s 183 ms
+#7 Distance: 0,1198942
+#8 Time: 0 m 26 s 584 ms
+#8 Distance: 0,2457606
+#9 Time: 0 m 15 s 31 ms
+#9 Distance: 0,2876224
+Container-Container Collisions: 2
+Container-Platform Collisions: 0
+Spreader Collisions: 1
+Average Time: 0m 22s 758ms
+Average Target Distances: 0,2362075
+
+Player: , Scenario: 0
+Total Time: 4 m 9 s 156 ms
+#0 Time: 0 m 50 s 71 ms
+#0 Distance: 0,09417011
+#1 Time: 0 m 24 s 196 ms
+#1 Distance: 0,08961257
+#2 Time: 0 m 35 s 922 ms
+#2 Distance: 0,2689907
+#3 Time: 0 m 16 s 137 ms
+#3 Distance: 0,3448977
+#4 Time: 0 m 29 s 356 ms
+#4 Distance: 0,1796076
+#5 Time: 0 m 15 s 805 ms
+#5 Distance: 0,335656
+#6 Time: 0 m 19 s 698 ms
+#6 Distance: 0,07732544
+#7 Time: 0 m 17 s 583 ms
+#7 Distance: 0,1511517
+#8 Time: 0 m 27 s 834 ms
+#8 Distance: 0,1725495
+#9 Time: 0 m 12 s 548 ms
+#9 Distance: 0,1760746
+Container-Container Collisions: 0
+Container-Platform Collisions: 0
+Spreader Collisions: 0
+Average Time: 0m 24s 916ms
+Average Target Distances: 0,1890036
+
+Player: , Scenario: 0
+Total Time: 1 m 52 s 348 ms
+#0 Time: 0 m 27 s 81 ms
+#0 Distance: 0,09423188
+#1 Time: 0 m 21 s 566 ms
+#1 Distance: 0,0861678
+#2 Time: 0 m 27 s 199 ms
+#2 Distance: 0,1017815
+#3 Time: 0 m 19 s 950 ms
+#3 Distance: 0,1983537
+#4 Time: 0 m 16 s 549 ms
+#4 Distance: 0,08463083
+Container-Container Collisions: 0
+Container-Platform Collisions: 0
+Spreader Collisions: 0
+Average Time: 0m 22s 470ms
+Average Target Distances: 0,1130332
+

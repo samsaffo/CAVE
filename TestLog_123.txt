@@ -1,0 +1,94 @@
+Player: 123, Scenario: 1
+Current time: 25-05-05 21:31:31
+Total Time: 0 m 0 s 1 ms
+Container-Container Collisions: 0
+Container-Platform Collisions: 0
+Spreader Collisions: 0
+Average Time: 0m 0s 0ms
+Average Target Distances: N/A
+
+Player: 123, Scenario: 1
+Current time: 25-05-05 21:33:23
+Total Time: 0 m 0 s 1 ms
+Container-Container Collisions: 0
+Container-Platform Collisions: 0
+Spreader Collisions: 0
+Average Time: 0m 0s 0ms
+Average Target Distances: N/A
+
+Player: 123, Scenario: 1
+Current time: 25-05-06 11:10:29
+Total Time: 2 m 19 s 41 ms
+#0 Time: 0 m 15 s 693 ms
+#0 Distance: 0.4337097
+#1 Time: 0 m 12 s 315 ms
+#1 Distance: 1.254682
+#2 Time: 0 m 13 s 806 ms
+#2 Distance: 0.1612418
+#3 Time: 0 m 8 s 736 ms
+#3 Distance: 0.3848467
+#4 Time: 0 m 18 s 652 ms
+#4 Distance: 1.254964
+Container-Container Collisions: 3
+Container-Platform Collisions: 0
+Spreader Collisions: 0
+Average Time: 0m 13s 841ms
+Average Target Distances: 0.6978888
+
+Player: 123, Scenario: 1
+Current time: 25-05-06 13:15:39
+Total Time: 2 m 20 s 703 ms
+#0 Time: 0 m 20 s 34 ms
+#0 Distance: 0.2792335
+#1 Time: 0 m 11 s 982 ms
+#1 Distance: 1.212806
+#2 Time: 0 m 16 s 305 ms
+#2 Distance: 0.3496426
+#3 Time: 0 m 10 s 38 ms
+#3 Distance: 0.4140286
+#4 Time: 0 m 18 s 676 ms
+#4 Distance: 0.2560202
+Container-Container Collisions: 3
+Container-Platform Collisions: 0
+Spreader Collisions: 0
+Average Time: 0m 15s 408ms
+Average Target Distances: 0.5023462
+
+Player: 123, Scenario: 1
+Current time: 25-05-06 14:15:44
+Total Time: 2 m 28 s 2 ms
+#0 Time: 0 m 28 s 923 ms
+#0 Distance: 0.1368214
+#1 Time: 0 m 11 s 829 ms
+#1 Distance: 1.222523
+#2 Time: 0 m 12 s 788 ms
+#2 Distance: 0.1659943
+#3 Time: 0 m 8 s 609 ms
+#3 Distance: 0.6717148
+#4 Time: 0 m 20 s 591 ms
+#4 Distance: 1.255792
+Container-Container Collisions: 2
+Container-Platform Collisions: 0
+Spreader Collisions: 1
+Average Time: 0m 16s 548ms
+Average Target Distances: 0.690569
+
+Player: 123, Scenario: 1
+Current time: 25-05-13 09:44:20
+Total Time: 2 m 11 s 722 ms
+#0 Time: 0 m 17 s 593 ms
+#0 Distance: 0.7001795
+#1 Time: 0 m 11 s 700 ms
+#1 Distance: 1.222672
+#2 Time: 0 m 14 s 750 ms
+#2 Distance: 0.1651697
+#3 Time: 0 m 11 s 13 ms
+#3 Distance: 0.2260433
+#4 Time: 0 m 16 s 778 ms
+#4 Distance: 1.224841
+Container-Container Collisions: 2
+Container-Platform Collisions: 2
+Spreader Collisions: 0
+Average Time: 0m 14s 367ms
+Average Target Distances: 0.7077812
+
