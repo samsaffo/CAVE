@@ -1,0 +1,154 @@
+{
+    "name": "JoystickControls",
+    "maps": [
+        {
+            "name": "Gameplay",
+            "id": "2d8fc696-9894-4c8e-8a46-91da1fed2bce",
+            "actions": [
+                {
+                    "name": "Move_Forward",
+                    "type": "Button",
+                    "id": "400dafc2-d75d-4a8b-bbcc-20f24d746569",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Move_Backward",
+                    "type": "Button",
+                    "id": "663f17d1-a5b0-4bc5-b18f-149f320e8177",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Move_Left",
+                    "type": "Button",
+                    "id": "b893a007-326c-49e7-bd30-2182f601f9ec",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Move_Right",
+                    "type": "Button",
+                    "id": "3ce92d37-386d-4b65-8839-a3d9aecbb755",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Lift_Up",
+                    "type": "Button",
+                    "id": "2592970d-6ba9-4a05-85f2-f7a0a758fa18",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Lift_Down",
+                    "type": "Button",
+                    "id": "155b987f-389a-4e6f-9b35-ac65d4917b1f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Pickup",
+                    "type": "Button",
+                    "id": "31fed0dc-d8b3-4b5b-be6e-9c98d3b6fc80",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "19a1f384-0516-4b22-b049-6e051ad4f5d3",
+                    "path": "<HID::Thrustmaster T.16000M>{RightHand}/stick/up",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move_Forward",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "304d4209-8ec5-493c-8fd1-c78da5ec4c19",
+                    "path": "<HID::Thrustmaster T.16000M>{RightHand}/stick/down",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move_Backward",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5ab25ec4-3fa0-4ad5-8f68-8f28e1db58c0",
+                    "path": "<HID::Thrustmaster T.16000M>{RightHand}/stick/left",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move_Left",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "92a8a2bd-3a02-4345-a6ca-4d6d10cba087",
+                    "path": "<HID::Thrustmaster T.16000M>{RightHand}/stick/right",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move_Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4be8c0bf-5b2c-4479-9a2c-3a0790e9cd81",
+                    "path": "<HID::Thrustmaster T.16000M>{LeftHand}/stick/up",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Lift_Up",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "d01b6e32-e2b8-45e9-82d4-149a112ca262",
+                    "path": "<HID::Thrustmaster T.16000M>{LeftHand}/stick/down",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Lift_Down",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a46473b3-9770-4315-b528-0ed332c0c281",
+                    "path": "<HID::Thrustmaster T.16000M>/trigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Pickup",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

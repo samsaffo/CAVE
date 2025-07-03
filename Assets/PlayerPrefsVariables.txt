@@ -1,0 +1,16 @@
+// Simulation mode: 1 = Load mode, 0 = Unload mode
+PlayerPrefs.GetInt("isLoadMode");
+
+PlayerPrefs.GetInt("InternalTruckCount");
+
+// Seconds between spawns.
+PlayerPrefs.GetInt("ExternalTruckFrequency");
+
+// Seconds between spawns.
+PlayerPrefs.GetInt("ShipFrequency");
+
+// Amount of containers spawned on start on storageyard (ground)
+PlayerPrefs.GetInt("ContainerSpawnAmount");
+
+// Number of active storage yards
+PlayerPrefs.GetInt("StorageYardAmount");
